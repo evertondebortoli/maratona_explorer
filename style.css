@@ -78,7 +78,7 @@ header p {
 header nav a {
   text-decoration: none;
   color: #995000;
-  font-size:20px;
+  font-size:15px;
   font-weight: bolder;
 }
 
@@ -95,6 +95,7 @@ section h2 {
 
   margin-bottom: 32px;
 }
+
 
 
 
